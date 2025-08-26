@@ -20,8 +20,6 @@ app.post('/', (req, res) => {
     res.send("you can post to this endpoint");
 });
 */
-
-const z = 106
 const a = 5
 const b = 10
 const port = 3000
