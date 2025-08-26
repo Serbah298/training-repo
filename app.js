@@ -22,7 +22,6 @@ app.post('/', (req, res) => {
 */
 const a = 5
 const b = 10
-const z = a - b
 const port = 3000
 // start up a server
 app.listen(port, ()=> {
