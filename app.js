@@ -20,7 +20,7 @@ app.post('/', (req, res) => {
     res.send("you can post to this endpoint");
 });
 */
-const a = 5
+
 const port = 3000
 // start up a server
 app.listen(port, ()=> {
